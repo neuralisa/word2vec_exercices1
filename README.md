@@ -9,6 +9,6 @@ These questions are not graded but we will discuss them!
 Homework
 Use the gensim library to find 3 words w1, w2 and w3 where w1 and w2 are synonyms (happy/joyous) and w3 is an antonym(sad). In this scenario w1 and w3 are more similar than w1 and w2.
 Send your submission to bayar.menzat@tuwien.ac.at.
-
+Deadline: 24th of October.
 
 
