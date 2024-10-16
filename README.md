@@ -1,14 +1,16 @@
-These questions are not graded but we will discuss them!
+15 Oct Homework
 
-### Easy 
-- **Why are there two versions of word2vec: Skip-gram and Continuous Bag of Words?** This is a theoretical question that requires understanding the conceptual differences between the two models.
-- **Why do we use softmax() for normalization and not just min-max scaling?** This question asks for a theoretical explanation of softmax function usage in machine learning models.
+Objective:
 
+Use Word2Vec embeddings from the Gensim library to explore word relationships. You’ll focus on finding cases where an antonym is closer to a word than its synonym and reflect on why this happens.
 
-15 octomber
-Homework
-Use the gensim library to find 3 words w1, w2 and w3 where w1 and w2 are synonyms (happy/joyous) and w3 is an antonym(sad). In this scenario w1 and w3 are more similar than w1 and w2.
+Instructions:
+
+	1.	Run the Code in word2vec_examples_homework.ipynb
+	•	Use the provided code to load the gensim model and then write code that can compare word distances (cosine distance) between word pairs: word 1, word2 (synonym) and word 3(antonym).
+	2.	Optional: Visualize Words:
+	•	Use the existing code to visualize word vectors in 2D space using PCA or another algorithm, to explore how different words are placed relative to each other. Populate the plot with related words to gain an intuition about the model.
+
+ Deadline: 24th of October.
 Send your submission to bayar.menzat@tuwien.ac.at.
-Deadline: 24th of October.
-
 
