@@ -5,7 +5,6 @@ Objective:
 Use Word2Vec embeddings from the Gensim library to explore word relationships. You’ll focus on finding cases where an antonym is closer to a word than its synonym and reflect on why this happens.
 
 Instructions:
-
 	1.	Run the Code in word2vec_examples_homework.ipynb
 	•	Use the provided code to load the gensim model and then write code that can compare word distances (cosine distance) between word pairs: word 1, word2 (synonym) and word 3(antonym).
 	2.	Optional: Visualize Words:
